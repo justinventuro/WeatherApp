@@ -5,7 +5,7 @@ from urllib import parse
 
 def g_api_call(address):
     g_api = 'https://maps.googleapis.com/maps/api/geocode/json?'
-    key = 'AIzaSyDRjPNMDlQisJ5fbUU4M_6-BH-qdi4fwk0'
+    key = 'XXXXXXXXXXXXXX'
 
     url_main = g_api + urllib.parse.urlencode({'address': address, 'key': key})
 
