@@ -6,7 +6,7 @@ def own_api_call(address):
 
 
     main_API = 'http://api.openweathermap.org/data/2.5/weather?'
-    key = 'f2bd2c935addeed759e69729e76a9957'
+    key = 'XXXXXXXXXXXXXXXX'
 
     url = main_API + urllib.parse.urlencode({'q': address['area']}) + "&units=metric" + "&appid=" + key
 
