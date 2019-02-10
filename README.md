@@ -1,6 +1,6 @@
 # WeatherApp
 Skills Used:
--Flask Library
+-Flask Library<br>
 -JSON Formatting
 -API calls and functions
 -HTML Templates (STATIC)
