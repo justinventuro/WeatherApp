@@ -3,7 +3,7 @@ Skills Used:<br>
 -Flask Library<br>
 -JSON Formatting<br>
 -API calls and functions<br>
-(Google and OWN)<br>
+(Google Geocode API and OWN API)<br>
 -HTML Templates (STATIC)<br>
 
 This project uses 2 APIs (Google and OWN) to give accurate location and weather data using FLASK as a framework. The user enters their desierd loation and then weather and location data are returned. <br>
